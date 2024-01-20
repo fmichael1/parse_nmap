@@ -59,4 +59,4 @@ My IP:               192.168.1.100 (MyDevice.local)
 Host  IP Address       Hostname            Ports
 1     192.168.1.1      Router              80/tcp (http), 443/tcp (https)
 2     192.168.1.101    DeviceOne           22/tcp (ssh)
-...</code>/pre>
+...</code></pre>
