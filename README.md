@@ -51,14 +51,12 @@
 <p>The script will output network details and a list of detected devices on your network.</p>
 
 <h2>Output Example</h2>
-<pre><code class="!whitespace-pre hljs language-bash">Network SSID:        MyWifiNetwork
+<pre><code>Network SSID:        MyWifiNetwork
 Subnet Mask:         255.255.255.0
 Network Gateway:     192.168.1.1
-My IP:               192.168.1.100 (MyDevice.<span class="hljs-built_in">local</span>)
+My IP:               192.168.1.100 (MyDevice.local)
 
 Host  IP Address       Hostname            Ports
-----------------------------------------------------------
 1     192.168.1.1      Router              80/tcp (http), 443/tcp (https)
 2     192.168.1.101    DeviceOne           22/tcp (ssh)
-...
-</code></div></div></pre><h2>Note</h2><ul><li>Ensure you have the necessary permissions to scan your network.</li><li>The effectiveness of hostname resolution can vary based on network configuration.</li></ul><h2>License</h2><p><a target="_new">MIT</a></p></div></div>
+...</code>/pre>
