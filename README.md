@@ -1,1 +1,1 @@
-network status basic.
+Network status basic.
